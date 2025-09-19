@@ -203,7 +203,7 @@ To determine the number of different isosceles triangles with integer side lengt
 Using these conditions, we can iterate through possible values of \(a\) and \(b\) to find all valid isosceles triangles.
 
 Let's write the Python code to find all such triangles and count them.
-\`\`\`python
+```python
 # Initialize a set to store unique isosceles triangles with integer side lengths
 isosceles_triangles = set()
 
